@@ -67,7 +67,7 @@ router.post('/', (req, res) => {
       stock: 3,
       tagIds: [1, 2, 3, 4]
     }
-    dfgd
+    d
   */
   Product.create(req.body)
     .then((product) => {
