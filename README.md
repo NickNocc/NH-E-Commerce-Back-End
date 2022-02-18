@@ -14,3 +14,4 @@ Once you have MySQL and Node.js installed clone the GitHub repository. Once you 
   
 * GitHub: https://github.com/NickNocc </br>
 * Email: Haretakis4@gmail.com
+* Walkthrough: https://drive.google.com/file/d/1RQ-ts_UYmSeKcvs_94yjHHakEcwFJPja/view
